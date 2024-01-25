@@ -1,27 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Yonkim&#39;s Study Logs</title>
-    <link>https://yyonkim.github.io/post/</link>
-    <description>Recent content in Posts on Yonkim&#39;s Study Logs</description>
+    <title>OS on Yonkim&#39;s Study Logs</title>
+    <link>https://yyonkim.github.io/tags/os/</link>
+    <description>Recent content in OS on Yonkim&#39;s Study Logs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2021. All rights reserved.</copyright>
     <lastBuildDate>Thu, 25 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://yyonkim.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yyonkim.github.io/tags/os/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello, World!</title>
       <link>https://yyonkim.github.io/post/2024-01-25_helloworld/</link>
       <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://yyonkim.github.io/post/2024-01-25_helloworld/</guid>
       <description>Hello World! My name is yon kim!</description>
-    </item>
-    <item>
-      <title>This is test post from connected submodule repository: study-logs</title>
-      <link>https://yyonkim.github.io/post/2024-01-25_test/</link>
-      <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://yyonkim.github.io/post/2024-01-25_test/</guid>
-      <description>Topic Hi, This is a test post</description>
     </item>
   </channel>
 </rss>

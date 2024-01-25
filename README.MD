@@ -4,7 +4,7 @@
 - Installation Guide by [eunhanless](https://selfinvestfriends.tistory.com/79)
 
 ### Structure
-- content/post: connected to yyonkim/study-logs as a submodule
+- render html: https://yyonkim.github.io
+- content/post: connected to [study-logs](https://github.com/yyonkim/study-logs) as a submodule
     - Automatically refelected in "[All Posts](https://yyonkim.github.io/post/)"
-- render html: yyonkim/yyonkim.github.io
-- config: yyonkim/yyonkim.github.io-project
+- config: [yyonkim.github.io-project](https://github.com/yyonkim/yyonkim.github.io-project)

@@ -2,48 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://yyonkim.github.io/post/2024-01-25_test2/</loc>
-    <lastmod>2023-01-25T15:27:00+09:00</lastmod>
-  </url><url>
     <loc>https://yyonkim.github.io/post/</loc>
-    <lastmod>2023-01-25T15:27:00+09:00</lastmod>
+    <lastmod>2024-01-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://yyonkim.github.io/tags/</loc>
-    <lastmod>2023-01-25T15:27:00+09:00</lastmod>
+    <lastmod>2024-01-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://yyonkim.github.io/tags/test/</loc>
-    <lastmod>2023-01-25T15:27:00+09:00</lastmod>
-  </url><url>
-    <loc>https://yyonkim.github.io/topics/</loc>
-    <lastmod>2023-01-25T15:27:00+09:00</lastmod>
-  </url><url>
-    <loc>https://yyonkim.github.io/topics/troubleshooting/</loc>
-    <lastmod>2023-01-25T15:27:00+09:00</lastmod>
-  </url><url>
-    <loc>https://yyonkim.github.io/tags/troubleshooting/</loc>
-    <lastmod>2023-01-25T15:27:00+09:00</lastmod>
-  </url><url>
-    <loc>https://yyonkim.github.io/</loc>
-    <lastmod>2023-01-25T15:27:00+09:00</lastmod>
+    <lastmod>2024-01-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://yyonkim.github.io/post/2024-01-25_test/</loc>
-    <lastmod>2023-01-25T11:08:00+09:00</lastmod>
+    <lastmod>2024-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yyonkim.github.io/categories/</loc>
-    <lastmod>2023-01-25T11:08:00+09:00</lastmod>
+    <loc>https://yyonkim.github.io/topics/</loc>
+    <lastmod>2024-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yyonkim.github.io/categories/test/</loc>
-    <lastmod>2023-01-25T11:08:00+09:00</lastmod>
+    <loc>https://yyonkim.github.io/topics/troubleshooting/</loc>
+    <lastmod>2024-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://yyonkim.github.io/tags/troubleshooting/</loc>
+    <lastmod>2024-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://yyonkim.github.io/</loc>
+    <lastmod>2024-01-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://yyonkim.github.io/about/</loc>
     <lastmod>2021-03-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yyonkim.github.io/post/2024-01-25_test3/</loc>
-  </url><url>
-    <loc>https://yyonkim.github.io/post/readme/</loc>
-  </url><url>
-    <loc>https://yyonkim.github.io/post/submodule_connection_test/</loc>
-  </url><url>
-    <loc>https://yyonkim.github.io/post/test/</loc>
+    <loc>https://yyonkim.github.io/categories/</loc>
   </url>
 </urlset>

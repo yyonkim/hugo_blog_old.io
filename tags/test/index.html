@@ -75,6 +75,8 @@
   <a class="pure-menu-heading brand" href="https://yyonkim.github.io/">study-logs</a>
 
 
+
+
   <div class="pure-menu">
     <ul class="pure-menu-list">
       
@@ -98,7 +100,7 @@
       
       
         <li class="pure-menu-item">
-          <a class="pure-menu-link" href="https://yyonkim.github.io/topics/os/"><i class='fas fa-chalkboard fa-fw'></i>OS</a>
+          <a class="pure-menu-link" href="https://yyonkim.github.io/search/"><i class='fa fa-list fa-fw'></i>Search</a>
       
         </li>
       
@@ -134,7 +136,7 @@
       
     </ul>
   </div>
-
+  
   <div class="pure-menu social">
   <ul class="pure-menu-list">
 
@@ -236,7 +238,15 @@
 </div>
 
 
+
   <div id="main">
+    <form id="search"
+    action='https://yyonkim.github.io/search/' method="get">
+    <label hidden for="search-input">Search site</label>
+    <input type="text" id="search-input" name="query"
+    placeholder="Type here to search">
+    <input type="submit" value="search">
+</form>
 
 
 <div class="header">
@@ -353,6 +363,8 @@
 </div>
 <script src="https://yyonkim.github.io/js/ui.js"></script>
 <script src="https://yyonkim.github.io/js/menus.js"></script>
+<script src="https://yyonkim.github.io/js/search.js"></script>
+<script src="https://yyonkim.github.io/js/lunr.js"></script>
 
 
 
@@ -362,6 +374,156 @@
 
 
 
+
+<script>
+    window.store = {
+        
+        
+        
+        
+        "https:\/\/yyonkim.github.io\/post\/2024-01-25_helloworld\/": {
+            
+            "title": "Hello, World!",
+            "tags": ["test","OS",],
+            "content": "Hello World! My name is yon kim!\n", 
+            "url": "https:\/\/yyonkim.github.io\/post\/2024-01-25_helloworld\/"
+        },
+        
+        
+        
+        "https:\/\/yyonkim.github.io\/topics\/os\/": {
+            
+            "title": "OS",
+            "tags": [],
+            "content": "", 
+            "url": "https:\/\/yyonkim.github.io\/topics\/os\/"
+        },
+        
+        
+        
+        "https:\/\/yyonkim.github.io\/tags\/os\/": {
+            
+            "title": "OS",
+            "tags": [],
+            "content": "", 
+            "url": "https:\/\/yyonkim.github.io\/tags\/os\/"
+        },
+        
+        
+        
+        "https:\/\/yyonkim.github.io\/post\/": {
+            
+            "title": "Posts",
+            "tags": [],
+            "content": "", 
+            "url": "https:\/\/yyonkim.github.io\/post\/"
+        },
+        
+        
+        
+        "https:\/\/yyonkim.github.io\/tags\/": {
+            
+            "title": "Tags",
+            "tags": [],
+            "content": "", 
+            "url": "https:\/\/yyonkim.github.io\/tags\/"
+        },
+        
+        
+        
+        "https:\/\/yyonkim.github.io\/tags\/test\/": {
+            
+            "title": "test",
+            "tags": [],
+            "content": "", 
+            "url": "https:\/\/yyonkim.github.io\/tags\/test\/"
+        },
+        
+        
+        
+        "https:\/\/yyonkim.github.io\/post\/2024-01-25_test\/": {
+            
+            "title": "This is test post from connected submodule repository: study-logs",
+            "tags": ["test","Troubleshooting",],
+            "content": "Topic Hi, This is a test post\n", 
+            "url": "https:\/\/yyonkim.github.io\/post\/2024-01-25_test\/"
+        },
+        
+        
+        
+        "https:\/\/yyonkim.github.io\/topics\/": {
+            
+            "title": "Topics",
+            "tags": [],
+            "content": "", 
+            "url": "https:\/\/yyonkim.github.io\/topics\/"
+        },
+        
+        
+        
+        "https:\/\/yyonkim.github.io\/topics\/troubleshooting\/": {
+            
+            "title": "Troubleshooting",
+            "tags": [],
+            "content": "", 
+            "url": "https:\/\/yyonkim.github.io\/topics\/troubleshooting\/"
+        },
+        
+        
+        
+        "https:\/\/yyonkim.github.io\/tags\/troubleshooting\/": {
+            
+            "title": "Troubleshooting",
+            "tags": [],
+            "content": "", 
+            "url": "https:\/\/yyonkim.github.io\/tags\/troubleshooting\/"
+        },
+        
+        
+        
+        "https:\/\/yyonkim.github.io\/": {
+            
+            "title": "Yonkim\u0027s Study Logs",
+            "tags": [],
+            "content": "", 
+            "url": "https:\/\/yyonkim.github.io\/"
+        },
+        
+        
+        
+        "https:\/\/yyonkim.github.io\/about\/": {
+            
+            "title": "about",
+            "tags": [],
+            "content": "", 
+            "url": "https:\/\/yyonkim.github.io\/about\/"
+        },
+        
+        
+        
+        "https:\/\/yyonkim.github.io\/categories\/": {
+            
+            "title": "Categories",
+            "tags": [],
+            "content": "", 
+            "url": "https:\/\/yyonkim.github.io\/categories\/"
+        },
+        
+        
+        
+        "https:\/\/yyonkim.github.io\/search\/": {
+            
+            "title": "Search me!",
+            "tags": [],
+            "content": "", 
+            "url": "https:\/\/yyonkim.github.io\/search\/"
+        },
+        
+    }
+    </script>
+    
+    <script src="https://yyonkim.github.io/js/lunr.js"></script>
+    <script src="https://yyonkim.github.io/js/search.js"></script>
 
 </body>
 </html>

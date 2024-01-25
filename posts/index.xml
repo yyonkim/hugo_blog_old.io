@@ -7,8 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2021. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 25 Jan 2023 11:08:00 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 25 Jan 2023 15:27:00 +0900</lastBuildDate>
     <atom:link href="https://yyonkim.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>20240125 Test Post</title>
+      <link>https://yyonkim.github.io/posts/2024-01-25_test2/</link>
+      <pubDate>Wed, 25 Jan 2023 15:27:00 +0900</pubDate>
+      <guid>https://yyonkim.github.io/posts/2024-01-25_test2/</guid>
+      <description>This is post test.</description>
+    </item>
     <item>
       <title>20240125 Test Post</title>
       <link>https://yyonkim.github.io/posts/2024-01-25_test/</link>

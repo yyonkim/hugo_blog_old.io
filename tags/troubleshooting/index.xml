@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>test on Yonkim&#39;s library</title>
-    <link>https://yyonkim.github.io/tags/test/</link>
-    <description>Recent content in test on Yonkim&#39;s library</description>
+    <title>Troubleshooting on Yonkim&#39;s library</title>
+    <link>https://yyonkim.github.io/tags/troubleshooting/</link>
+    <description>Recent content in Troubleshooting on Yonkim&#39;s library</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2021. All rights reserved.</copyright>
     <lastBuildDate>Wed, 25 Jan 2023 15:27:00 +0900</lastBuildDate>
-    <atom:link href="https://yyonkim.github.io/tags/test/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yyonkim.github.io/tags/troubleshooting/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>20240125 Test Post</title>
       <link>https://yyonkim.github.io/posts/2024-01-25_test2/</link>
       <pubDate>Wed, 25 Jan 2023 15:27:00 +0900</pubDate>
       <guid>https://yyonkim.github.io/posts/2024-01-25_test2/</guid>
-      <description>This is post test.</description>
-    </item>
-    <item>
-      <title>20240125 Test Post</title>
-      <link>https://yyonkim.github.io/posts/2024-01-25_test/</link>
-      <pubDate>Wed, 25 Jan 2023 11:08:00 +0900</pubDate>
-      <guid>https://yyonkim.github.io/posts/2024-01-25_test/</guid>
       <description>This is post test.</description>
     </item>
   </channel>

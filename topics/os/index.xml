@@ -10,11 +10,11 @@
     <lastBuildDate>Thu, 25 Jan 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://yyonkim.github.io/topics/os/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hello, World!</title>
-      <link>https://yyonkim.github.io/post/2024-01-25_helloworld/</link>
+      <title>2024-01-25 (test) OS Category test</title>
+      <link>https://yyonkim.github.io/post/2024-01-25_test_category_os/</link>
       <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://yyonkim.github.io/post/2024-01-25_helloworld/</guid>
-      <description>Hello World! My name is yon kim!</description>
+      <guid>https://yyonkim.github.io/post/2024-01-25_test_category_os/</guid>
+      <description>Hello World! Checking document publishing status for OS Category Seems like working fine </description>
     </item>
   </channel>
 </rss>

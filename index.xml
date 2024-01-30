@@ -7,8 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2021. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 25 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jan 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://yyonkim.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2024-01-30-Obsidian_Github_Publisher_Plugin_Test</title>
+      <link>https://yyonkim.github.io/post/2024-01-30-obsidian_github_publish_test/</link>
+      <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://yyonkim.github.io/post/2024-01-30-obsidian_github_publish_test/</guid>
+      <description>2024-01-30-Obsidian_Github_Publish_Test</description>
+    </item>
     <item>
       <title>Hello, World!</title>
       <link>https://yyonkim.github.io/post/2024-01-25_helloworld/</link>
@@ -29,6 +36,13 @@
       <pubDate>Sun, 28 Mar 2021 00:00:00 +0000</pubDate>
       <guid>https://yyonkim.github.io/about/</guid>
       <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://yyonkim.github.io/post/2024-01-30-obsidian_test2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yyonkim.github.io/post/2024-01-30-obsidian_test2/</guid>
+      <description>Publish Test</description>
     </item>
   </channel>
 </rss>

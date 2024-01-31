@@ -7,8 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2021. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 30 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jan 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://yyonkim.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2024-01-31 Linux CLI Cheat Sheet</title>
+      <link>https://yyonkim.github.io/post/2024-01-31-linux-cli-cheat-sheet/</link>
+      <pubDate>Wed, 31 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://yyonkim.github.io/post/2024-01-31-linux-cli-cheat-sheet/</guid>
+      <description>Hard link, Soft link 생성 및 파일 메타데이터 정보 확인 Hard link&#xA;$ ln &amp;lt;source file&amp;gt; &amp;lt;target file&amp;gt; Soft link&#xA;$ ln -s &amp;lt;source file&amp;gt; &amp;lt;target file&amp;gt; Stat (metadata)&#xA;$ stat &amp;lt;source file&amp;gt; 1. File: 파일의 이름을 표시합니다. 2. Size: 파일의 크기를 바이트 단위로 표시합니다. 3. Blocks: 파일이 사용하는 파일 시스템 블록 수를 나타냅니다. 4. IO Block: 파일 시스템에서의 블록 크기를 나타냅니다. 5. File type: 파일의 형식을 나타냅니다. 일반 파일, 디렉토리, 심볼릭 링크 등이 여기에 표시됩니다.</description>
+    </item>
     <item>
       <title>2024-01-30(test) Obsidian Github Publisher Plugin Test</title>
       <link>https://yyonkim.github.io/post/2024-01-30_test_obsidian_publish_plugin/</link>

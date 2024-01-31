@@ -7,20 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2021. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 30 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jan 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://yyonkim.github.io/topics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OS</title>
+      <link>https://yyonkim.github.io/topics/os/</link>
+      <pubDate>Wed, 31 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://yyonkim.github.io/topics/os/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Troubleshooting</title>
       <link>https://yyonkim.github.io/topics/troubleshooting/</link>
       <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://yyonkim.github.io/topics/troubleshooting/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>OS</title>
-      <link>https://yyonkim.github.io/topics/os/</link>
-      <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://yyonkim.github.io/topics/os/</guid>
       <description></description>
     </item>
   </channel>

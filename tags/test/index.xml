@@ -10,28 +10,28 @@
     <lastBuildDate>Tue, 30 Jan 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://yyonkim.github.io/tags/test/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>2024-01-30(test) Obsidian Github Publisher Plugin Test</title>
+      <title>(test) Obsidian Github Publisher Plugin Test</title>
       <link>https://yyonkim.github.io/post/2024-01-30_test_obsidian_publish_plugin/</link>
       <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://yyonkim.github.io/post/2024-01-30_test_obsidian_publish_plugin/</guid>
       <description> Check for Obsidian Github Publisher Plugin test Seems line working fine. Obsidian Publisher </description>
     </item>
     <item>
-      <title>2024-01-30(test) search test for obsidian published contents</title>
+      <title>(test) search test for obsidian published contents</title>
       <link>https://yyonkim.github.io/post/2024-01-30_test_lunrsearch/</link>
       <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://yyonkim.github.io/post/2024-01-30_test_lunrsearch/</guid>
       <description>test md for lunr search feature</description>
     </item>
     <item>
-      <title>2024-01-25(test) OS Category test</title>
+      <title>(test) OS Category test</title>
       <link>https://yyonkim.github.io/post/2024-01-25_test_category_os/</link>
       <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://yyonkim.github.io/post/2024-01-25_test_category_os/</guid>
       <description>Hello World! Checking document publishing status for OS Category Seems like working fine </description>
     </item>
     <item>
-      <title>2024-01-25(test) Test Post from connected submodule repository: study-logs</title>
+      <title>Test Post from connected submodule repository: study-logs</title>
       <link>https://yyonkim.github.io/post/2024-01-25_test_submodule_repository/</link>
       <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://yyonkim.github.io/post/2024-01-25_test_submodule_repository/</guid>

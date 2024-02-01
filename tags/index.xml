@@ -10,6 +10,20 @@
     <lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://yyonkim.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>blog</title>
+      <link>https://yyonkim.github.io/tags/blog/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://yyonkim.github.io/tags/blog/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>css</title>
+      <link>https://yyonkim.github.io/tags/css/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://yyonkim.github.io/tags/css/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>CVE</title>
       <link>https://yyonkim.github.io/tags/cve/</link>
       <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
